@@ -10,8 +10,10 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Spring 2026:
 ======
+Math 142: Calculus II
+Math 210: Financial Mathematics
 
 Heading 2
 ======
